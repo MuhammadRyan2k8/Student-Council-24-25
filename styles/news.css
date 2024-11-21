@@ -58,9 +58,9 @@ body {
     {
         font-size: 14vw;
     }
-
-    .section-1
-    {
-        height: 400px;
+    .section-1 {
+        height: 600px;
+        background-size: contain;
+        background-position: top center;
     }
 }

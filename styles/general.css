@@ -99,7 +99,7 @@ body {
 
 @media (max-width: 800px) {
     .section-1 {
-        height: 800px;
+        height: 600px;
         background-size: contain;
         background-position: top center;
     }
@@ -161,6 +161,12 @@ body {
 @media (max-width: 500px) {
     .section-1 {
         height: 400px;
+        background-size: contain;
+        background-position: top center;
+    }
+
+    .section-1-1 {
+        margin-top: 50px;
     }
 
     .section-2-1-1-title {
