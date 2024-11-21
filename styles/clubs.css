@@ -148,8 +148,7 @@ body {
     }
 
     .section-1 {
-        height: 600px;
-        background-size: contain;
-        background-position: top center;
+        height: 150vw;
+        background-position: -400px -100px;
     }
 }
